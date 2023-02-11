@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I obtained my Ph.D. degree at The Chinese University of Hong Kong (CUHK) in 2019, under the supervison of [Prof. Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/). Prior to that, I received the B.Eng. from University of Science and Technology of China (USTC) in 2014.
 
-My research interests include ML/DL for Graph and Databases, Graph Data Management, Graph Analytics and Algorithm, In-Database ML. 
+My research concentrates on ML/DL for Graph and Databases, Graph Data Management, Graph Analytics and Algorithm, In-Database ML. 
 
 I'm looking for highly-motivated Ph.D., master and undergraduate students. If you are interested, please drop me an email without hesitation.
 
