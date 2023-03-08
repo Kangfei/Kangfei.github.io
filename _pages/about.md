@@ -2,18 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Beijing Institute of Technology</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Beijing Institute of Technology</a>. 
+(Tenure-track) Professor
+Email:zkf1105@gmail.com
+Mobile/Wechat:(852)130-4085-6399
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Central Teaching Bldg.,Rm 1237, BIT</p>
+    <p>Haidian, Beijing</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -22,5 +24,4 @@ I obtained my Ph.D. degree at The Chinese University of Hong Kong (CUHK) in 2019
 
 My research concentrates on ML/DL for Graph and Databases, Graph Data Management, Graph Analytics and Algorithm, In-Database ML. 
 
-I'm looking for highly-motivated Ph.D., master and undergraduate students. If you are interested, please drop me an email without hesitation.
-
+I'm looking for highly-motivated Ph.D., master and undergraduate students. If you are interested, please drop me an email with the CV. （I plan to support 2-3 master, 1-2 Ph.D. per year, providing personalized academic/career advising, and domestic/oversee intern/RA opportunities in industry and academia.)
