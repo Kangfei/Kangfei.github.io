@@ -2,18 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Beijing Institute of Technology</a>. 
-(Tenure-track) Professor
-Email:zkf1105@gmail.com
-Mobile/Wechat:(852)130-4085-6399
+subtitle: <a href='#'>Beijing Institute of Technology</a>. (Tenure-track) Professor
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Central Teaching Bldg.,Rm 1237, BIT</p>
-    <p>Haidian, Beijing</p>
+    <p>Email:zkf1105@gmail.com</p>
+    <p>Wechat:(852)130-4085-6399</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
