@@ -21,4 +21,4 @@ I obtained my Ph.D. degree at The Chinese University of Hong Kong (CUHK) in 2019
 
 My research concentrates on ML/DL for Graph and Databases, Graph Data Management, Graph Analytics and Algorithm, In-Database ML. 
 
-I'm looking for highly-motivated Ph.D., master and undergraduate students. If you are interested, please drop me an email with the CV. （I plan to support 2-3 master, 1-2 Ph.D. per year, providing personalized academic/career advising, and domestic/oversee intern/RA opportunities in industry and academia.)
+I'm looking for highly-motivated Ph.D., master and undergraduate students. If you are interested, please drop me an email with the CV. （I plan to support 2-3 master, 1-2 Ph.D. per year, providing personalized academic and career advising, and domestic/oversea intern/RA opportunities in industry and academia.)
